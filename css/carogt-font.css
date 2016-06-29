@@ -1,0 +1,52 @@
+body {
+  font-size: 30px;
+}
+
+.content {
+  text-align: justify;
+  max-height: 90%;
+  max-width: 90%;
+  padding: 5%;
+}
+
+.Messiri {
+  font-family: 'El Messiri', sans-serif;
+}
+
+.Arima {
+  font-family: 'Arima Madurai', cursive;
+}
+
+.Aref {
+  font-family: 'Aref Ruqaa', serif;
+}
+
+.Lemonada {
+  font-family: 'Lemonada', cursive;
+}
+.Shrikhand {
+  font-family: 'Shrikhand', cursive;
+}
+
+.Yatra {
+  font-family: 'Yatra One', cursive;
+}
+
+.Cormorant {
+  font-family: 'Cormorant Upright', serif;
+}
+
+.Pacifico {
+  font-family: 'Pacifico', cursive;
+}
+
+.Satisfy {
+  font-family: 'Satisfy', cursive;
+}
+.Pataya {
+  font-family: 'Pattaya', sans-serif;
+}
+
+.center {
+  text-align: center;
+}
