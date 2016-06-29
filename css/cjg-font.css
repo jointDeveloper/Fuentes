@@ -1,0 +1,42 @@
+body {
+  font-size: 30px;
+}
+
+.content {
+  text-align: justify;
+  max-height: 90%;
+  max-width: 90%;
+  padding: 5%;
+}
+
+.Handlee {
+  font-family: 'Handlee', cursive;
+}
+
+.Amatic {
+  font-family: 'Amatic SC', cursive;
+}
+
+.Poiret {
+  font-family: 'Poiret One', cursive;
+}
+
+.Satisfy {
+  font-family: 'Satisfy', cursive;
+}
+
+.Lobster {
+  font-family: 'Lobster Two', cursive;
+}
+
+.Grace {
+  font-family: 'Covered By Your Grace', cursive;
+}
+
+.Fredoka {
+  font-family: 'Fredoka One', cursive;
+}
+
+.center {
+  text-align: center;
+}
