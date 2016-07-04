@@ -1,0 +1,66 @@
+body {
+  font-size: 30px;
+}
+
+.content {
+  text-align: justify;
+  max-height: 90%;
+  max-width: 90%;
+  padding: 5%;
+}
+
+.center {
+  text-align: center;
+}
+
+.BlackOps {
+  font-family: 'Black Ops One', cursive;
+}
+
+.Jura {
+  font-family: 'Jura', sans-serif;
+}
+
+.Indie {
+  font-family: 'Indie Flower', cursive;
+}
+
+.Lobster {
+  font-family: 'Lobster', cursive;
+}
+
+.Shadows {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.Dancing {
+  font-family: 'Dancing Script', cursive;
+}
+
+.Bangers {
+  font-family: 'Bangers', cursive;
+}
+
+.Chewy {
+  font-family: 'Chewy', cursive;
+}
+
+.Coming {
+  font-family: 'Coming Soon', cursive;
+}
+
+.Crafty {
+  font-family: 'Crafty Girls', cursive;
+}
+
+.Belleza {
+  font-family: 'Belleza', sans-serif;
+}
+
+.Unkempt {
+  font-family: 'Unkempt', cursive;
+}
+
+.Pompiere {
+  font-family: 'Pompiere', cursive;
+}
