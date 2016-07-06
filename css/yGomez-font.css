@@ -1,0 +1,18 @@
+body {
+  font-size: 30px;
+}
+
+.content {
+  text-align: justify;
+  max-height: 90%;
+  max-width: 90%;
+  padding: 5%;
+}
+
+.center {
+  text-align: center;
+}
+
+.CodePro {
+  font-family:'Source Code Pro';
+}
