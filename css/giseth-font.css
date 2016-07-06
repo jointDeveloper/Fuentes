@@ -1,0 +1,44 @@
+body {
+  font-size: 30px;
+}
+
+.content {
+  text-align: justify;
+  max-height: 90%;
+  max-width: 90%;
+  padding: 5%;
+}
+
+.Roboto {
+  font-family: 'Roboto', sans-serif;
+}
+
+.OpenSans {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.RobotoSlab {
+  font-family: 'Roboto Slab', serif;
+}
+
+.HindGuntur {
+  font-family: 'Hind Guntur', sans-serif;
+}
+.Asap {
+font-family: 'Asap', sans-serif;
+}
+
+.Ubuntu {
+
+    font-family: 'Ubuntu Condensed', sans-serif;
+
+}
+
+.Allerta {
+  font-family: 'Allerta Stencil', sans-serif;
+}
+
+
+.center {
+  text-align: center;
+}
